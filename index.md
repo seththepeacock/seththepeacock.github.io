@@ -6,7 +6,7 @@ title: "Home"
 <!-- <img src="/assets/profile.jpeg" alt="Profile picture" width="180" style="border-radius: 50%; margin-bottom: 1em;"> -->
 
 # Seth Peacock
-[Email](mailto:seththepeacock@example.com) · [GitHub](https://github.com/seththepeacock) · [CV (PDF)](/assets/CV.pdf)
+[Email](mailto:seththepeacock@example.com) · [GitHub](https://github.com/seththepeacock) · [CV](/assets/CV.pdf)
 
 ---
 
@@ -36,7 +36,7 @@ I have a wide range of mathematical interests but am most excited by stochastic/
 
 ## CV
 
-📄 [Download CV (PDF)](/assets/CV.pdf)
+📄 [CV (PDF)](/assets/CV.pdf)
 
 ---
 
