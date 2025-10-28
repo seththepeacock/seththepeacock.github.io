@@ -6,8 +6,6 @@ title: "Home"
 <!-- <img src="/assets/profile.jpeg" alt="Profile picture" width="180" style="border-radius: 50%; margin-bottom: 1em;"> -->
 
 # Seth Peacock
-_Applied Mathematics_
-
 [Email](mailto:seththepeacock@example.com) · [GitHub](https://github.com/seththepeacock) · [CV (PDF)](/assets/CV.pdf)
 
 ---

@@ -3,7 +3,7 @@ description: "Applied Mathematics"
 theme: jekyll-theme-minimal
 
 # Optional extras
-# logo: /assets/profile.jpeg
+logo: /assets/profile.jpeg
 show_downloads: false
 github:
   is_project_page: false
