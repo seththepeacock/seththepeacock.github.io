@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-<img src="/assets/profile.jpeg" alt="Profile picture" width="180" style="border-radius: 50%; margin-bottom: 1em;">
+<!-- <img src="/assets/profile.jpeg" alt="Profile picture" width="180" style="border-radius: 50%; margin-bottom: 1em;"> -->
 
 # Seth Peacock
 _Applied Mathematics_

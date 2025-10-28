@@ -1,9 +1,9 @@
 title: "Seth Peacock"
-description: "Research Assistant"
+description: "Applied Mathematics"
 theme: jekyll-theme-minimal
 
 # Optional extras
-logo: /assets/profile.jpg
+# logo: /assets/profile.jpeg
 show_downloads: false
 github:
   is_project_page: false
