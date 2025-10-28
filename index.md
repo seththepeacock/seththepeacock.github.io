@@ -28,9 +28,9 @@ I have a wide range of mathematical interests but am most excited by stochastic/
 
 ## GitHub Repositories
 
-- [phaseco](https://github.com/yourusername/repo-2): Package for analyzing self-coherence in phase with a selection of dynamic windowing methods.
-- [otocoherence](https://github.com/yourusername/repo-1): Analysis code for Peacock et al. 2025.
-- [tda_cms_mice](https://github.com/seththepeacock/cms_mice_data_processing): Topological data analysis of serotonin concentration time series in depressed (CMS) mice.
+- [phaseco](https://github.com/seththepeacock/phaseco): Package for analyzing self-coherence in phase with a selection of dynamic windowing methods.
+- [otocoherence](https://github.com/seththepeacock/otocoherence): Analysis code for Peacock et al. 2025.
+- [tda_cms_mice](https://github.com/seththepeacock/tda_cms_mice): Topological data analysis of serotonin concentration time series in depressed (CMS) mice.
 - [vodscillators](https://github.com/seththepeacock/vodscillators) Package for simulating spontaneous otoacoustic emissions via coupled ODEs.
 
 
