@@ -5,7 +5,6 @@ title: "Home"
 
 <!-- <img src="/assets/profile.jpeg" alt="Profile picture" width="180" style="border-radius: 50%; margin-bottom: 1em;"> -->
 
-# Seth Peacock
 [Email](mailto:seththepeacock@example.com) · [GitHub](https://github.com/seththepeacock) · [CV](/assets/CV.pdf)
 
 ---
