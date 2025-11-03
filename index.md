@@ -13,7 +13,7 @@ title: "Home"
 
 My current research involves the design of signal processing algorithms to analyze the self-coherence of oscillations in spontaneous otoacoustic emissions (sounds emitted by ears). Previously, I extended and applied methods from topological data analysis to serotonin concentration time series in depressed (CMS) mice.
 
-I have a wide range of mathematical interests but am most excited by stochastic/nonlinear dynamics and signal processing. I recently graduated from Ohio State University with a B.S. in applied mathematics and am applying for PhD programs to begin in autumn 2026.
+I have a wide range of mathematical interests but am most excited by the nonlinear dynamics of coupled oscillator systems with and without stochastic elements. I recently graduated from Ohio State University with a B.S. in applied mathematics and am applying for PhD programs to begin in autumn 2026.
 
 ---
 
