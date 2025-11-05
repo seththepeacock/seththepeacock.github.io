@@ -11,7 +11,7 @@ title: "Home"
 
 ## About Me
 
-My current research involves the design of signal processing algorithms to analyze the self-coherence of oscillations in spontaneous otoacoustic emissions (SOAE, or sounds emitted by ears). To complement this work, I developed a machine learning model to identify peaks in the power spectra of these oscillations. Previously, I built on existing methods in topological data analysis to develop a novel method for identifying release and reuptake processes in serotonin concentration time series data from depressed mice. Overall, my work involves a combination of computational and mathematical approaches to model and anlyze oscillations in biological systems.
+My current research involves the design of signal processing algorithms to analyze the self-coherence of oscillations in spontaneous otoacoustic emissions (SOAE, or sounds emitted by ears). To complement this work, I developed a machine learning model to identify peaks in the power spectra of these oscillations. Previously, I built on existing methods in topological data analysis to develop a novel method for identifying release and reuptake processes in serotonin concentration time series data from depressed mice. Overall, my work has involved a combination of computational and mathematical approaches to model and analyze oscillations in biological systems, though I am interested in a wide variety of applications.
 
 I have a wide range of mathematical interests but am currently most excited by nonlinear and/or stochastic dynamics. I recently graduated from Ohio State University with a B.S. in applied mathematics and am applying for PhD programs to begin in autumn 2026.
 
