@@ -27,6 +27,7 @@ I have a wide range of mathematical interests but am currently most excited by d
 
 - [phaseco](https://seththepeacock.github.io/phaseco): A python package for analyzing self-coherence in phase with a selection of dynamic windowing methods.
 - [otocoherence](https://github.com/seththepeacock/otocoherence): Analysis code for [Peacock et al., 2025](https://www.biorxiv.org/content/10.1101/2025.11.14.687084v1).
+
 ---
 
 ## CV
