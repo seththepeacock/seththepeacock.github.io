@@ -19,7 +19,7 @@ I have a wide range of mathematical interests but am currently most excited by d
 
 ## Preprints
 
-- **Spontaneous Otocoherence Provides a Novel Window Onto the Active Ear** — Peacock et al. (2025) [*BioRxiv*](https://www.biorxiv.org/content/10.1101/2025.11.14.687084v1)
+- **Spontaneous otocoherence of the active ear** — Peacock et al. (2025) [*BioRxiv*](https://www.biorxiv.org/content/10.1101/2025.11.14.687084v1)
 
 ---
 
