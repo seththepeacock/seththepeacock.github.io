@@ -11,7 +11,7 @@ title: "Home"
 
 ## About Me
 
-My current work is in the nonlinear dynamics of hearing, where I am particularly interested in models of spontaneous otoacoustic emission (SOAE, or sounds emitted by ears) in lizards through regions of synchrony in arrays of locally coupled stochastically driven oscillators. Presently, I am working on techniques based in spectral analysis to quantify temporal self-coherence in these stochastic oscillations. Previously, I developed a method based in topological data analysis to identify release and reuptake processes in serotonin concentration time-series data. More broadly, my work has focused on nonlinear and stochastic dynamics, the development of data-analytic methods, and applied algebraic topology; I also aim to extend into algorithms for data-driven modeling. I am especially interested in biological and ecological applications.
+My current work is in the nonlinear dynamics of hearing, where I am particularly interested in models of spontaneous otoacoustic emission (SOAE, or sounds emitted by ears) in lizards through regions of synchrony in arrays of locally coupled stochastically driven oscillators. Presently, I am working on techniques based in spectral analysis to quantify temporal self-coherence in these stochastic oscillations. I have previously developed a method building on persistent homology in topological data analysis to identify release and reuptake processes in serotonin concentration time-series data. More broadly, my work has focused on nonlinear and stochastic dynamics, the development of data-analytic methods, and applied algebraic topology; I also aim to extend into algorithms for data-driven modeling. I am especially interested in biological and ecological applications.
 
 ---
 
