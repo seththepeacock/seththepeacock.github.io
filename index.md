@@ -10,7 +10,7 @@ title: "Home"
 ---
 
 ## About Me
-I am a Ph.D. student at Cornell's Center for Applied Math interested in nonlinear and stochastic dynamics in biological contexts.   
+I am a Ph.D. student at Cornell's [Center for Applied Math](https://cam.cornell.edu/) interested in nonlinear and stochastic dynamics in biological contexts.   
 
 While researching the nonlinear dynamics of hearing, I was captivated by models of spontaneous otoacoustic emission (sounds emitted by ears) arising in lizards through regions of synchrony in arrays of stochastically driven, locally coupled oscillators. Since then, I've worked on a framework to quantify temporal self-coherence in these stochastic oscillations. Before that, I developed a method building on persistent homology in topological data analysis to identify release and clearance processes in serotonin concentration data. 
 
