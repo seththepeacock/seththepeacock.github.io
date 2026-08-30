@@ -14,7 +14,8 @@ I am a Ph.D. student at Cornell's [Center for Applied Math](https://cam.cornell.
 
 While researching the nonlinear dynamics of hearing, I was captivated by models of spontaneous otoacoustic emission (sounds emitted by ears) arising in lizards through regions of synchrony in arrays of stochastically driven, locally coupled oscillators. Since then, I've worked on a framework to quantify temporal self-coherence in these stochastic oscillations. Before that, I developed a method building on persistent homology in topological data analysis to identify release and clearance processes in serotonin concentration data. 
 
-I also make music in [Rat Motel](https://theratmotel.com/) and as [Izzi Sleep](https://theratmotel.com/izzisleep). Building guitar effects pedals and producing music exposed me to the wonderful world of signal processing. I love thinking about how signal processing methods can reveal structure in biological data, and I am fascinated by the question of how biological systems (from ears to bacterial colonies) can themselves operate as signal processors.
+By building guitar effects pedals and producing music in [Rat Motel](https://theratmotel.com/) and as [Izzi Sleep](https://theratmotel.com/izzisleep), I was introduced to the wonderful world of signal processing. I love thinking about how signal processing methods can reveal structure in biological data, and I am fascinated by the question of how biological systems (from ears to bacterial colonies) can themselves operate as signal processors.
+
 
 ---
 
