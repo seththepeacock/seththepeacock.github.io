@@ -5,15 +5,16 @@ title: "Home"
 
 <!-- <img src="/assets/profile.jpeg" alt="Profile picture" width="180" style="border-radius: 50%; margin-bottom: 1em;"> -->
 
-[Email](mailto:seththepeacock@gmail.com) · [GitHub](https://github.com/seththepeacock) · [CV](/assets/CV.pdf)
+[Email](mailto:snp59@cornell.edu) · [GitHub](https://github.com/seththepeacock) · [CV](/assets/CV.pdf)
 
 ---
 
 ## About Me
+I am a Ph.D. student at Cornell's Center for Applied Math interested in nonlinear and stochastic dynamics in biological contexts.   
 
-My current work is in the nonlinear dynamics of hearing, where I am particularly interested in models of spontaneous otoacoustic emission (SOAE, or sounds emitted by ears) in lizards through regions of synchrony in arrays of stochastically driven, locally coupled oscillators. Presently, I am working on a framework to quantify temporal self-coherence in these stochastic oscillations. I have previously developed a method building on persistent homology in topological data analysis to identify release and clearance processes in serotonin concentration data. 
+While researching the nonlinear dynamics of hearing, I was captivated by models of spontaneous otoacoustic emission (sounds emitted by ears) arising in lizards through regions of synchrony in arrays of stochastically driven, locally coupled oscillators. Since then, I've worked on a framework to quantify temporal self-coherence in these stochastic oscillations. Before that, I developed a method building on persistent homology in topological data analysis to identify release and clearance processes in serotonin concentration data. 
 
-Broadly, my work has focused on nonlinear and stochastic dynamics and methods for identifying structure in time-series data. I am interested in integrating mathematical theory and data-driven approaches to elucidating dynamical systems in biology, ecology, climate science, and neuroscience.
+I also make music in [Rat Motel](https://theratmotel.com/) and as [Izzi Sleep](https://theratmotel.com/izzisleep). Building guitar effects pedals and producing music exposed me to the wonderful world of signal processing. I love thinking about how signal processing methods can reveal structure in biological data, and I am fascinated by the question of how biological systems (from ears to bacterial colonies) can themselves operate as signal processors.
 
 ---
 
